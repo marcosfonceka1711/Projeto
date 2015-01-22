@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">#DivulgaEventos</string>
+    <string name="descricao_sistema">Sistema de divulgação de eventos</string>
+    <string name="time">Lato Sensu DC - Time 7 - 2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Eventos</string>
+    <string name="menu_local_evento">Locais</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="title_activity_tela_locais_eventos">Lista de Locais de Eventos</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_detalhe_local_evento">DetalheLocalEvento</string>
+    <string name="sobre_ufscar">UFSCar</string>
+    <string name="sobre_rodovia">Rodovia Washington Luís, km 235 - SP 310</string>
+    <string name="sobre_jardim">Jardim Guanabara São Carlos SP  CEP13565905</string>
+	<string name="sobre_telefone">(16) 33518111</string>
+</resources>
